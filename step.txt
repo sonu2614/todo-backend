@@ -1,0 +1,38 @@
+MVC-model view controller
+
+TODO 
+Setup of express server
+mongoDB connection
+
+Set the EJS to express view engine
+
+Register Page 
+Register API
+
+Login Page
+Login API
+
+Session Base Auth
+
+Dashboard Page(TODO Page)
+Logout
+Logout from all the devices
+
+Todo API's
+create 
+read
+edit
+delete
+
+DashBoard 
+Axios
+    Create 
+    edit
+    delete
+Read Components
+
+Pagination of API
+Rate Limiting
+
+
+JWT : Email Authentication
